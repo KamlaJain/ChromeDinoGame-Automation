@@ -1,2 +1,2 @@
 # ChromeDinoGame-Automation
-Automation of Chrome Dino Game
+Automation of Chrome Dino Game.
